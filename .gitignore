@@ -1,3 +1,5 @@
 error.log
 *.log
 *.file
+*.erroe_copy.log
+
